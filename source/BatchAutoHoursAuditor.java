@@ -11,7 +11,6 @@
 // 2) Open the CORE file resave (with same name) as .xls file.
 // 3) Under the *** FILL OUT PART *** put in your initials and today's date.
 // 4) Compile and Run, all the files in the In Progress folder will be audited and the finished excel file will be in the Completed folder.
-// 5) Check and make sure there's no big errors in the output file.
 
 package source;
 
