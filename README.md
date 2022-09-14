@@ -9,8 +9,8 @@ Java-based Hours Auditor for Swedish Medical Center in Seattle, WA.
 * Swedish Auto Hours Auditor Manual.docx: Guide for non-technical / technical users for using Java and using this program.
 
 ## API Documentaiton
-Uses Apache Commons Math Library API
+Apache Commons Math Library API
 https://commons.apache.org/proper/commons-math/
 
-Uses Apache POI
+Apache POI
 https://poi.apache.org/
