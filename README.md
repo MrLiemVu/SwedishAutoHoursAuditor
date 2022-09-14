@@ -1,5 +1,5 @@
 # Swedish-Auto-Hours-Auditor
-Java-based Hours Auditor for Swedish Medical Center in Seattle, WA.
+Java-based Automated Hours Auditor for Swedish Medical Center in Seattle, WA.
 
 ## Main Folder Information
 *	APIs: Folder that contains all of the accompanying APIs used to make the program run.
