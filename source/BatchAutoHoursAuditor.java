@@ -7,11 +7,10 @@
 // Don't need this if this program is allowed on Swedish. :)
 
 // To use
-// 1) Put the CORE extracted hours file into the Swedish Auto Hours Auditor folder.
+// 1) Put the CORE extracted hours file into the In Progress folder.
 // 2) Open the CORE file resave (with same name) as .xls file.
-// 3) Under the *** FILL OUT PART *** put in your initials, today's date, the scholars last name, first name, rotation they joined,
-//    whether or not they are JHS, and the file name of the CORE extracted file.
-// 4) Compile and Run, the finished excel file will be in the Swedish Auto Hours Auditor Folder.
+// 3) Under the *** FILL OUT PART *** put in your initials and today's date.
+// 4) Compile and Run, all the files in the In Progress folder will be audited and the finished excel file will be in the Completed folder.
 // 5) Check and make sure there's no big errors in the output file.
 
 package source;
