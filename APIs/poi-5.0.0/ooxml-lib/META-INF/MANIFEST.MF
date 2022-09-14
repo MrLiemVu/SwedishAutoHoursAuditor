@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.7
+Created-By: 1.8.0_201-b09 (Oracle Corporation)
+Multi-Release: true
+
+Name: org/apache/xmlbeans/
+Comment: Apache XmlBeans version 4.0.0
+Implementation-Title: org.apache.xmlbeans
+Implementation-Version: 4.0.0
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: https://xmlbeans.apache.org/
+
