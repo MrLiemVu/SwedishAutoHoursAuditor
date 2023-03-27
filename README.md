@@ -6,6 +6,7 @@ Java-based Automated Hours Auditor for Swedish Medical Center in Seattle, WA.
 *	Completed Audits: A helper folder to place the completed hours audits.
 *	In Progress Audits: A helper folder to place the extracted .xls data from CORE.
 *	source: Folder that contains the Auto Hours Auditor programs for use.
+* samples: An example output given a fake input file.
 * Swedish Auto Hours Auditor Manual.docx: Guide for non-technical / technical users for using Java and using this program.
 
 ## API Documentaiton
