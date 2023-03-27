@@ -14,7 +14,7 @@
 // 4) Compile and Run, the finished excel file will be in the Swedish Auto Hours Auditor Folder.
 // 5) Check and make sure there's no big errors in the output file.
 
-package source;
+package src;
 
 import java.io.*;
 import java.util.*;
@@ -50,6 +50,8 @@ import org.apache.poi.ss.usermodel.DateUtil;
 import org.apache.poi.ss.usermodel.ExcelStyleDateFormatter;
 import org.apache.poi.ss.usermodel.DataFormatter;
 import org.apache.poi.ss.usermodel.CellValue;
+import styles.CellFonts;
+import styles.CellStyles;
 
 public class BatchAutoHoursAuditor { // Version 1.4
    
@@ -575,7 +577,7 @@ public class BatchAutoHoursAuditor { // Version 1.4
             String[] tokensKey = hourKey.split(" ");
             String dateData = "Swedish " + tokensKey[0] + " " + tokensKey[2];
             
-            // Check if Month key already exists                                           TODO: FIX LOBBY BEFORE FLOOR ENTRY
+            // Check if Month key already exists                                      
             if (monthData.containsKey(dateData)) {
                repeatMonth = true;
                monthLocate = monthData.get(dateData);

@@ -14,7 +14,7 @@
 // 4) Compile and Run, the finished excel file will be in the Swedish Auto Hours Auditor Folder.
 // 5) Check and make sure there's no big errors in the output file.
 
-package source;
+package src;
 
 import java.io.*;
 import java.util.*;
