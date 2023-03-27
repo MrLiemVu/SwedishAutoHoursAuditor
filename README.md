@@ -1,4 +1,4 @@
-# Swedish-Auto-Hours-Auditor
+# SwedishAutoHoursAuditor
 Java-based Automated Hours Auditor for Swedish Medical Center in Seattle, WA.
 
 ## Main Folder Information
