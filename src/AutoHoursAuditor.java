@@ -55,7 +55,7 @@ public class AutoHoursAuditor { // Version 1.4
    
    // *** FILL OUT PART ***
    
-   public static String initials = "QLV"; // Your Initials
+   public static String initials = "QHV"; // Your Initials
    public static String date = "12/8/2022"; // Today's Date
    public static String fileName = "Hannah Chang 2021D JHS.xls"; // File Name to Audit
  
